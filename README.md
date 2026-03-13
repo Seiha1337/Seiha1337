@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Seiha1337</h1>
+<h1 align="center">Salut 👋, je suis Armand !</h1>
 
 <p align="center">
   <a href="https://discord.gg/necrozz91">
