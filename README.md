@@ -1,12 +1,6 @@
 <h1 align="center">Salut 👋, je suis Armand !</h1>
 
 <p align="center">
-  <a href="https://discord.gg/necrozz91">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
-  </a>
-</p>
-
-<p align="center">
   <em>Passionné par le réseau, la cybersécurité et le développement. Toujours en train d'apprendre et de construire de nouvelles choses !</em>
 </p>
 
@@ -31,7 +25,12 @@ J'utilise une grande variété d'outils et de technologies pour mes projets et m
 
 **Serveurs & Bases de données** ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Logiciels, Hardware & CI/CD** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Outils Dev & CI/CD** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**Hardware & Monitoring** ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Bureautique & Productivité**
+![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 **Gaming & Graphisme** ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 
@@ -40,19 +39,20 @@ J'utilise une grande variété d'outils et de technologies pour mes projets et m
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seiha1337&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Seiha1337&theme=dark&hide_border=false" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiha1337&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Seiha1337&limit=5&theme=dark&combine_all_yearly_contributions=true" width="48%" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seiha1337&theme=dark" alt="Profile Details" height="160"/></td>
+      <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seiha1337&theme=dark" alt="Productive Time" height="160"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seiha1337&theme=dark" alt="Repos Per Language" height="160"/></td>
+      <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seiha1337&theme=dark" alt="Statistiques générales" height="160"/></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Seiha1337&icon=9&color=0" alt="Profile Views">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Seiha1337&color=blueviolet&style=for-the-badge&label=VUES+DU+PROFIL" alt="Profile Views">
 </div>
