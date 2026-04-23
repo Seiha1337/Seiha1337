@@ -1,12 +1,7 @@
 <h1 align="center">Salut 👋, je suis Armand !</h1>
 
 <p align="center">
-  <a href="https://seiha.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-seiha.dev-%236c63ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:contact@seiha.dev">
-    <img src="https://img.shields.io/badge/EMAIL-contact@seiha.dev-%2300d4aa?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
-  </a>
+  <a href="https://seiha.dev"><img src="https://img.shields.io/badge/PORTFOLIO-seiha.dev-%236c63ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a><a href="mailto:contact@seiha.dev"><img src="https://img.shields.io/badge/EMAIL-contact@seiha.dev-%2300d4aa?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -17,7 +12,7 @@
 
 ### 💫 À propos de moi
 
-* 🔭 **En ce moment :** Je développe le **Projet GAMBLING** et je peaufine mon infrastructure personnelle.
+* 🔭 **En ce moment :** Je travaille sur le **Projet GAMBLING** et je peaufine mon infrastructure personnelle.
 * 🌱 **Apprentissage :** J'approfondis mes skills sur **Docker**, **JavaScript** et l'automatisation via **Python**.
 * 🎓 **Parcours :** Diplômé d'un **Bac Pro SN (Mention Très Bien)**, je vise l'excellence en administration systèmes et réseaux.
 * 💬 **Parlons de :** Architecture réseau, audit de sécurité, virtualisation (Proxmox) ou même de gaming !
