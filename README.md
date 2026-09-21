@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <em>Étudiant en <strong>BTS CIEL</strong> | Passionné par les infrastructures réseaux, la cybersécurité et le déploiement de solutions robustes.</em>
+  <em>Étudiant en <strong>BAC+3 ARSC</strong> | Passionné par les infrastructures réseaux, la cybersécurité et le déploiement de solutions robustes.</em>
 </p>
 
 ---
 
 ### 💫 À propos de moi
 
-* 🔭 **En ce moment :** Je travaille sur le **Projet GAMBLING** et je peaufine mon infrastructure personnelle.
+* 🔭 **En ce moment :** Je travaille sur le **Projet GAMBLING 2** et je peaufine mon infrastructure personnelle.
 * 🌱 **Apprentissage :** J'approfondis mes skills sur **Docker**, **JavaScript** et l'automatisation via **Python**.
-* 🎓 **Parcours :** Diplômé d'un **Bac Pro SN (Mention Très Bien)**, je vise l'excellence en administration systèmes et réseaux.
+* 🎓 **Parcours :** Diplômé d'un **Bac Pro SN (Mention Très Bien)** et Diplômé d'un BTS CIEL, je vise l'excellence en administration systèmes et réseaux.
 * 💬 **Parlons de :** Architecture réseau, audit de sécurité, virtualisation (Proxmox) ou même de gaming !
 * ⚡ **Fun fact :** Ma VM de prod est plus stable que mon ratio sur mon FPS préféré.
 
