@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis Armand !</h1>
 
 <p align="center">
-  <a href="https://seiha.dev"><img src="https://img.shields.io/badge/PORTFOLIO-seiha.dev-%236c63ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a><a href="mailto:contact@seiha.dev"><img src="https://img.shields.io/badge/EMAIL-contact@seiha.dev-%2300d4aa?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://seiha.dev"><img src="https://img.shields.io/badge/PORTFOLIO-seiha.dev-%236c63ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a><a href="mailto:seihablade@proton.me"><img src="https://img.shields.io/badge/EMAIL-contact@seiha.dev-%2300d4aa?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
